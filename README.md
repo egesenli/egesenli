@@ -19,10 +19,10 @@ I've a background in industrial engineering and a passion for web development. I
 - ⚡  Fun fact: I'm a basketball & soccer player, sports fan, amateur producer & DJ.
 <h1 align="center">📬 Get in Touch!</h1>
 <div style="display: flex; justify-content: space-between;">
-<a href="https://www.linkedin.com/in/erkanegesenli/" target="blank"><img align="center" src="https://img.shields.io/badge/Erkan Ege SENLI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:egesenli@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/egesenli@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="egesenli@montagcreative.com" target="blank"><img align="center" src="https://img.shields.io/badge/egesenli@montagcreative.com-gray?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.github.com/egesenli" target="blank"><img align="center" src="https://img.shields.io/badge/EGESENLI-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/erkanegesenli/" target="blank"><img src="https://img.shields.io/badge/Erkan Ege SENLI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:egesenli@gmail.com" target="blank"><img src="https://img.shields.io/badge/egesenli@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="egesenli@montagcreative.com" target="blank"><img src="https://img.shields.io/badge/egesenli@montagcreative.com-gray?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.github.com/egesenli" target="blank"><img src="https://img.shields.io/badge/EGESENLI-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <hr>
 <h1 align="center">💻 Tech Stack</h1>
