@@ -4,7 +4,7 @@ I've a background in industrial engineering and a passion for web development. I
 
  I've recently participated in a 30-week full-stack web development bootcamp where I acquired skills in React JS & Node.js, Ruby/Ruby on Rails, HTML & CSS, Javascript, SQL & Relational Databases, Networking & HTTP. I'm eager to continue to acquire new abilities and staying up-to-date with the latest technologies in web development with an innovative mindset.
 
- I also do freelance work at a digital agency called <a href="https://montagcreative.com/en/about-our-web-design-team/" target="_blank">Montag Creative</a>. You can find our portfolio <a href="https://montagcreative.com/en/home/" target="_blank">here</a>
+ I also do freelance work at a digital agency called <a href="https://montagcreative.com/en/about-our-web-design-team/" target="_blank" rel="noopener noreferrer">Montag Creative</a>. You can find our portfolio <a href="https://montagcreative.com/en/home/" target="_blank" rel="noopener noreferrer">here</a>
 here</a>.
 
 <h2>About Me</h2>
