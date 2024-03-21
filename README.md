@@ -1,8 +1,8 @@
 <h1>Hi! I'm Erkan Ege Senli<img src="https://user-images.githubusercontent.com/36883798/215221891-0b1a4588-f980-43e8-94fc-989b53aeaa16.gif" width="60px"/></h1>
 
-I've a background in industrial engineering and a passion for web development. I started to coding with building static websites with using Wordpress and decided to take it further.
+I have a background in industrial engineering and a passion for web development. I started to code by building static websites using WordPress and decided to take it further.
 
- I've recently participated in a 30-week full-stack web development bootcamp where I acquired skills in React JS & Node.js, Ruby/Ruby on Rails, HTML & CSS, Javascript, SQL & Relational Databases, Networking & HTTP. I'm eager to continue to acquire new abilities and staying up-to-date with the latest technologies in web development with an innovative mindset.
+ I've recently participated in a 30-week full-stack web development bootcamp where I acquired skills in React JS & Node.js, Ruby/Ruby on Rails, HTML & CSS, Javascript, SQL & Relational Databases, Networking & HTTP. I'm eager to continue to acquire new abilities and stay up-to-date with the latest technologies in web development with an innovative mindset.
 
  I also do freelance work at a digital agency called <a href="https://montagcreative.com/en/about-our-web-design-team/" target="_blank" rel="noopener noreferrer">Montag Creative</a>. You can find our portfolio <a href="https://montagcreative.com/en/home/" target="_blank" rel="noopener noreferrer">here.</a>
 
